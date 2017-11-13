@@ -1,5 +1,5 @@
 export default function(){
-    retun [
+    return [
         {title: 'Money'},
         {title: 'Life'},
         {title: 'Happy'}
